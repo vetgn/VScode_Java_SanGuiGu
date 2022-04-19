@@ -62,13 +62,11 @@ class Plane implements Flyable {
 
     @Override
     public void fly() {
-        // TODO Auto-generated method stub
         System.out.println("通过引擎飞");
     }
 
     @Override
     public void stop() {
-        // TODO Auto-generated method stub
         System.out.println("驾驶员减速停飞");
     }
 
@@ -78,8 +76,6 @@ abstract class AA implements Flyable {
 
     @Override
     public void fly() {
-        // TODO Auto-generated method stub
-
     }
 
     // 如果没有全部的重写，就可以变成抽象性的
@@ -92,38 +88,32 @@ class Bullet extends Object implements Flyable, Attackable, DD {
 
     @Override
     public void attack() {
-        // TODO Auto-generated method stub
 
     }
 
     @Override
     public void fly() {
-        // TODO Auto-generated method stub
 
     }
 
     @Override
     public void stop() {
-        // TODO Auto-generated method stub
 
     }
 
     // 因为实现了DD,而DD继承了BB,CC
     @Override
     public void method1() {
-        // TODO Auto-generated method stub
 
     }
 
     @Override
     public void method2() {
-        // TODO Auto-generated method stub
 
     }
 
     @Override
     public void method3() {
-        // TODO Auto-generated method stub
 
     }
 
