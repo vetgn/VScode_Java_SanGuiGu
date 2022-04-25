@@ -19,7 +19,7 @@ public class Book {
         Book book = new Book("《活着》", "中作华文", 20, 100);
         String[] arr = new String[]{"we","ds","fs"};
         //String[] writer = new String[] { "小明", "小红", "小王" };
-        Book a = new Book(arr);
+        new Book(arr);
         //book.setWriters(writer);
         book.printAll();
     }
