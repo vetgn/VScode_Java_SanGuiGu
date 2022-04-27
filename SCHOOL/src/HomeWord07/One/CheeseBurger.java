@@ -20,7 +20,7 @@
  * 薯条：large，单价8元；
  * 套餐优惠价：22元，为您节省：9元。
 */
-package src.HomeWord07.One;
+package src.Homeword07.One;
 
 //吉士汉堡
 public class CheeseBurger {

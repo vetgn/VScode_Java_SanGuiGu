@@ -7,7 +7,7 @@
  * @Description: 
  * 
  */
-package src.HomeWord07.One;
+package src.Homeword07.One;
 
 //  薯条有type（large, medium, small）和price属性。
 public class FrenchFries {

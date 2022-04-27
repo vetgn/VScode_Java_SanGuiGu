@@ -7,7 +7,7 @@
  * @Description: 
  * 
  */
-package src.HomeWord07.One;
+package src.Homeword07.One;
 
 public class CheeseBurgerComboMeal {
     private int price;

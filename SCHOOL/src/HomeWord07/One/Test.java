@@ -14,7 +14,7 @@
  * 套餐优惠价：22元，为您节省：9元。
  * 
  */
-package src.HomeWord07.One;
+package src.Homeword07.One;
 
 public class Test {
     public static void main(String[] args) {

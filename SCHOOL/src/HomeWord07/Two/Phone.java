@@ -19,7 +19,7 @@
  * 创建对象中的所需数据按需求自行编写。
  * 
  */
-package src.HomeWord07.Two;
+package src.Homeword07.Two;
 
 public class Phone {
     private String brand;
