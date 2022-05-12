@@ -10,6 +10,7 @@ import org.junit.Test;
  */
 public class WrapperTest {
 
+    @Test
     public void test3() {
         // 自动装箱，基本数据类型--->包装类
         int num2 = 10;
