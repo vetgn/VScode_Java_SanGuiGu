@@ -8,7 +8,7 @@
  * （2）Screen类，包含私有属性：品牌brand（String类型）和价格price（double类型）；带有两个参数的构造方法；getBrand()和getPrice()方法
  * 
  */
-package src.Homeword07.Two;
+package src.Homework07.Two;
 
 public class Screen {
     private String brand;

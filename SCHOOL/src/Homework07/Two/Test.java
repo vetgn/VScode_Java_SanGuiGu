@@ -10,7 +10,7 @@
  * 创建对象中的所需数据按需求自行编写。
  * 
  */
-package src.Homeword07.Two;
+package src.Homework07.Two;
 
 public class Test {
     public static void main(String[] args) {

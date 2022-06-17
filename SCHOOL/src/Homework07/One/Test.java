@@ -14,7 +14,7 @@
  * 套餐优惠价：22元，为您节省：9元。
  * 
  */
-package src.Homeword07.One;
+package src.Homework07.One;
 
 public class Test {
     public static void main(String[] args) {

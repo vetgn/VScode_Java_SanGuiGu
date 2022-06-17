@@ -7,7 +7,7 @@
  * @Description: 
  * 
  */
-package src.Homeword07.One;
+package src.Homework07.One;
 
 public class Cola {
     // 可乐有volume(容量);price属性；

@@ -2,8 +2,8 @@
  * @Author: vetgn
  * @Date: 2022-04-18 21:12:35
  * @LastEditors: vetgn
- * @LastEditTime: 2022-04-18 21:20:48
- * @FilePath: \vscode_Java_SanGuiGu\SCHOOL\src\HomeWord07\One\CheeseBurger.java
+ * @LastEditTime: 2022-05-31 10:45:03
+ * @FilePath: \vscode_Java_SanGuiGu\SCHOOL\src\Homework07\One\CheeseBurger.java
  * @Description: 
  * 某炸鸡快餐推出一个吉士汉堡套餐CheeseBurgerComboMeal：它由吉士汉堡CheeseBurger+可乐Cola+薯条FrenchFries组成，其中：
  * 吉士汉堡有size(尺寸);price属性；
@@ -20,7 +20,7 @@
  * 薯条：large，单价8元；
  * 套餐优惠价：22元，为您节省：9元。
 */
-package src.Homeword07.One;
+package src.Homework07.One;
 
 //吉士汉堡
 public class CheeseBurger {
